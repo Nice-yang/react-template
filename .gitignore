@@ -1,13 +1,3 @@
-.DS_Store
-Thumbs.db
-node_modules/
-dist/
-/.vscode/settings.json
-/.vscode/tasks.json
-yarn-error.log
-/*.tgz
-package-lock.json
-.npmrc
-.yarnrc
-tsconfig.tsbuildinfo
-.cache/
+./dist
+./node_modules
+./yarn.lock
